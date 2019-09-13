@@ -2,6 +2,9 @@
 
 > Simple Loading spinner component for React
 
+
+![alt text](https://i.imgur.com/USpdRt2.gif "Spinner Working")
+
 ## Installation
 
 ```
@@ -18,6 +21,7 @@ People are impatient, show them something while content is loading
 
 
 See [example](https://github.com/joelgarciajr84/react-loading-spinner)
+
 
 
 ## License
