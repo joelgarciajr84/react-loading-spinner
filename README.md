@@ -2,8 +2,8 @@
 
 > Simple Loading spinner component for React
 
+<img src="https://i.imgur.com/USpdRt2.gif" width="200">
 
-![alt text](https://i.imgur.com/USpdRt2.gif =250x "Spinner Working")
 
 ## Installation
 
