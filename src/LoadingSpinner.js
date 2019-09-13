@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-class LoadingSpinner extends Component {
+class SimpleLoadingSpinner extends Component {
   static defaultProps = {
     width: '50px',
     height: '50px',
@@ -25,4 +25,4 @@ class LoadingSpinner extends Component {
  
 }
 
-export default LoadingSpinner;
+export default SimpleLoadingSpinner;
