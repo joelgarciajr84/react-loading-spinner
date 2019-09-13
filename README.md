@@ -3,7 +3,7 @@
 > Simple Loading spinner component for React
 
 
-![alt text](https://i.imgur.com/USpdRt2.gif "Spinner Working")
+![alt text](https://i.imgur.com/USpdRt2.gif =250x "Spinner Working")
 
 ## Installation
 
